@@ -18,7 +18,7 @@
         echo "B > A = Ele não é maior que A <br><br>";
     }
 
-    if ($c > $d){
+    if ($c >= $d){
         echo "C > D = é maior ou igual a D <br><br>";
     } else {
         echo "C > D = Ele não é maior ou igual D <br><br>";
